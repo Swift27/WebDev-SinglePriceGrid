@@ -10,6 +10,3 @@ Thank you for checking out this Single Price Grid component. This responsive web
 
 - HTML5
 - CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
